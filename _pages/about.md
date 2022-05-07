@@ -8,4 +8,5 @@ redirect_from:
   - /about.html
 ---
 
-
+A normal but out-going Ph.D candidate.
+Current research interested in tranfer learning, domain adaptation and semi-supervised learning.
