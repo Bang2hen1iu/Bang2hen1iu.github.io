@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bangzhen Liu (刘邦镇)"
+title                    : "Bangzhen Liu"
 title_separator          : "-"
 name                     : &name "Bangzhen Liu (刘邦镇)"
 description              : &description "Ph.D Candidate at South China University of Technology"
@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
-  avatar           : "profile.png"
+  name             : "Bangzhen Liu (刘邦镇)"
+  avatar           : "myselfish.png"
   bio              : "Computer science Ph.D candidate at South China University of Technology(SCUT)"
   location         : "Guangzhou, Guangdong Province"
   employer         :
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : "Bang2hen1iu"
   google_plus      :
   keybase          :
   instagram        :
