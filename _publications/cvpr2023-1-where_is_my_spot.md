@@ -21,10 +21,12 @@ Image generation relies on massive training data that can hardly produce diverse
 
 Recommended citation: 
 
-```@inproceedings{zheng2023my,
+```
+@inproceedings{zheng2023my,
   title={Where is my spot? few-shot image generation via latent subspace optimization},
   author={Zheng, Chenxi and Liu, Bangzhen and Zhang, Huaidong and Xu, Xuemiao and He, Shengfeng},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
   pages={3272--3281},
   year={2023}
-}```
+}
+```
