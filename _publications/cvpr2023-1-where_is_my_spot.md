@@ -6,7 +6,7 @@ excerpt: Image generation relies on massive training data that can hardly produc
 date: 2023-6-18
 venue: 'CVPR2023'
 paperurl: '[CVPR2023](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_Where_Is_My_Spot_Few-Shot_Image_Generation_via_Latent_Subspace_CVPR_2023_paper.pdf)'
-bibtex: 
+citation: 
 @inproceedings{zheng2023my,
   title={Where is my spot? few-shot image generation via latent subspace optimization},
   author={Zheng, Chenxi and Liu, Bangzhen and Zhang, Huaidong and Xu, Xuemiao and He, Shengfeng},
