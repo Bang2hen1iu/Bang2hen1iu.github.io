@@ -7,7 +7,6 @@ To this end, the proposed two-stage optimization framework of 3DArtmator begins 
 The effectiveness and versatility of 3DArtmator are validated through extensive experiments across a diverse range of art styles. With the ability to generate 3D reconstruction and editing for artforms while maintaining interpretability, 3DArtmator opens up new possibilities for artistic exploration and engagement.'
 date: 2024-2-01
 venue: 'IEEE TVCG'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Zheng C, Liu B, Xu X, et al. Learning an Interpretable Stylized Subspace for 3D-aware Animatable Artforms[J]. IEEE Transactions on Visualization and Computer Graphics, 2024.'
 ---
 Throughout history, static paintings have captivated viewers within display frames, yet the possibility of making these masterpieces vividly interactive remains intriguing. This research paper introduces 3DArtmator, a novel approach that aims to represent artforms in a highly interpretable stylized space, enabling 3D-aware animatable reconstruction and editing. Our rationale is to transfer the interpretability and 3D controllability of the latent space in a 3D-aware GAN to a stylized sub-space of a customized GAN, revitalizing the original artforms.
