@@ -13,7 +13,7 @@ Throughout history, static paintings have captivated viewers within display fram
 To this end, the proposed two-stage optimization framework of 3DArtmator begins with discovering an anchor in the original latent space that accurately mimics the pose and content of a given art painting. This anchor serves as a reliable indicator of the original latent space local structure, therefore sharing the same editable predefined expression vectors. In the second stage, we train a customized 3D-aware GAN specific to the input artform, while enforcing the preservation of the original latent local structure through a meticulous style-directional difference loss. This approach ensures the creation of a stylized sub-space that remains interpretable and retains 3D control.
 The effectiveness and versatility of 3DArtmator are validated through extensive experiments across a diverse range of art styles. With the ability to generate 3D reconstruction and editing for artforms while maintaining interpretability, 3DArtmator opens up new possibilities for artistic exploration and engagement.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://www.computer.org/csdl/journal/tg/5555/01/10430412/1UoCiN7In0Q)
 
 Recommended citation: 
 ```

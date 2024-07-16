@@ -11,7 +11,7 @@ Yu Y, Liu B, Zheng C, et al. Beyond textual constraints: learning novel diffusio
 In this paper, we delve into a novel aspect of learning novel diffusion conditions with datasets an order of magnitude smaller. The rationale behind our approach is the elimination of textual constraints during the few-shot learning process. To that end, we implement two optimization strategies. The first, prompt-free conditional learning, utilizes a prompt-free encoder derived from a pre-trained Stable Diffusion model. This strategy is designed to adapt new conditions to the diffusion process by minimizing the textual-visual correlation, thereby ensuring a more precise alignment between the generated content and the specified conditions. The second strategy entails condition-specific negative rectification, which addresses the inconsistencies typically brought about by Classifier-free guidance in few-shot training contexts. Our extensive experiments across a variety of condition modalities demonstrate the effectiveness and efficiency of our framework, yielding results comparable to those obtained with datasets a thousand times larger. Our codes are available at [https://github.com/Yuyan9Yu/BeyondTextConstraint](https://github.com/Yuyan9Yu/BeyondTextConstraint).
 
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Download paper here](https://openaccess.thecvf.com/content/CVPR2024/papers/Yu_Beyond_Textual_Constraints_Learning_Novel_Diffusion_Conditions_with_Fewer_Examples_CVPR_2024_paper.pdf)
 
 Recommended citation: 
 
