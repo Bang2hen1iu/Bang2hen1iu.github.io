@@ -23,32 +23,47 @@ I am deeply interested in 3D understanding & reconstruction, and transfer learni
 * 2023-02: One paper is accepted by CVPR 2023.
 
 
-
 # 📝 Publications
 <span class='anchor' id='-publications'></span>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #: Corresponding Authors
-* [Gaussian Prompter: Linking 2D Prompts for 3D Gaussian Segmentation]()
+* [Gaussian Prompter: Linking 2D Prompts for 3D Gaussian Segmentation]()  
+Honghan Pan, **Bangzhen Liu**, Xuemiao Xu, Chenxi Zheng, Yongwei Nie, Shengfeng He.  
+IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**. 
 
-  Honghan Pan, **Bangzhen Liu**, Xuemiao Xu, Chenxi Zheng, Yongwei Nie, and Shengfeng He.
-
-  IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**. 
-
-* [Rotation-Adaptive Point Cloud Domain Generalization via Intricate Orientation Learning](https://arxiv.org/abs/2502.02247) 
-
-  **Bangzhen Liu**, Chenxi Zheng, Xuemiao Xu, Cheng Xu, Huaidong Zhang, and Shengfeng He.
-
-  IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**. 
+* [Rotation-Adaptive Point Cloud Domain Generalization via Intricate Orientation Learning](https://arxiv.org/abs/2502.02247)   
+**Bangzhen Liu**, Chenxi Zheng, Xuemiao Xu, Cheng Xu, Huaidong Zhang, Shengfeng He.  
+IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**. 
 
 
-* [Open-set Mixed Domain Adaptation via Visual-Linguistic Focal Evolving](https://ieeexplore.ieee.org/abstract/document/10926517)
-
-  **Bangzhen Liu**, Yangyang Xu, Cheng Xu, Xuemiao Xu, Shengfeng He.
-
-  IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2025**. 
+* [Open-set Mixed Domain Adaptation via Visual-Linguistic Focal Evolving](https://ieeexplore.ieee.org/abstract/document/10926517)  
+**Bangzhen Liu**, Yangyang Xu, Cheng Xu, Xuemiao Xu, Shengfeng He.  
+IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2025**. 
  
-* [RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation Learning](https://arxiv.org/abs/2502.12640). The Thirteenth International Conference on Learning Representations, **ICLR 2025**. Chenxi Zheng, Yihong Lin, **Bangzhen Liu**, Xuemiao Xu, Yongwei Nie, and Shengfeng He.
-* [Hierarchical damage correlations for old photo restoration](https://www.sciencedirect.com/science/article/pii/S1566253524001180). Information Fusion(SCI 一区). Weiwei Cai, Xuemiao Xu, Jiajia Xu, Huaidong Zhang, **Haoxin Yang**, Kun Zhang, Shengfeng He.
-* [Individual property inference over collaborative learning in deep feature space](https://ieeexplore.ieee.org/document/9859857). IEEE International Conference on Multimedia& Expo, ICME 2022 (CCF-B 会议). **Haoxin Yang**; Yi Wang; Bin Li.
+* [RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation Learning](https://arxiv.org/abs/2502.12640)  
+Chenxi Zheng, Yihong Lin, **Bangzhen Liu**, Xuemiao Xu, Yongwei Nie, Shengfeng He.  
+The Thirteenth International Conference on Learning Representations, **ICLR 2025**. 
+
+
+* [VrdONE: One-stage Video Visual Relation Detection](https://arxiv.org/abs/2408.09408)   
+Xinjie Jiang, Chenxi Zheng, Xuemiao Xu#, **Bangzhen Liu**#, Weiying Zheng, Huaidong Zhang, Shengfeng He  
+The 34th ACM International Conference on Multimedia, **ACMMM 2024**. 
+
+* [Learning an Interpretable Stylized Subspace for 3D-aware Animatable Artforms](https://ieeexplore.ieee.org/document/10430412)  
+Chenxi Zheng*, **Bangzhen Liu***, Xuemiao Xu, Huaidong Zhang, Shengfeng He  
+IEEE Transactions on Visualization and Computer Graphics, **TVCG 2024**. 
+
+* [Beyond Textual Constraints: Learning Novel Diffusion Conditions with Fewer Examples](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Beyond_Textual_Constraints_Learning_Novel_Diffusion_Conditions_with_Fewer_Examples_CVPR_2024_paper.html)  
+Yuyang Yu*, **Bangzhen Liu***, Chenxi Zheng, Xuemiao Xu, Huaidong Zhang, Shengfeng He  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2024**. 
+
+* [Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Learning_with_Unreliability_Fast_Few-shot_Voxel_Radiance_Fields_with_Relative_CVPR_2024_paper.html)  
+Yingjie Xu*, **Bangzhen Liu***, Hao Tang, Bailin Deng, Shengfeng He  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2024**. 
+
+* [Where is My Spot? Few-shot Image Generation via Latent Subspace Optimization](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Where_Is_My_Spot_Few-Shot_Image_Generation_via_Latent_Subspace_CVPR_2023_paper.html)  
+Chenxi Zheng*, **Bangzhen Liu***, Huaidong Zhang, Xuemiao Xu, Shengfeng He  
+IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2023**. 
+
 
 
 <!-- # 🧾 Patents -->
@@ -57,8 +72,8 @@ I am deeply interested in 3D understanding & reconstruction, and transfer learni
 <span class='anchor' id='-education'></span>
 * 2021.09 - 2025.06 
 &emsp; Ph.D
-&emsp; School of Computer Science & Engineering, South China University of Technology
-&emsp; Supervisor Prof. [Xuemiao Xu](https://scholar.google.com/citations?user=lFtJq3MAAAAJ&hl=zh-CN&oi=ao) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
+&emsp; School of Computer Science & Engineering, South China University of Technology  
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Supervisor Prof. [Xuemiao Xu](https://scholar.google.com/citations?user=lFtJq3MAAAAJ&hl=zh-CN&oi=ao) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
 
 * 2017.09 - 2021.06 
 &emsp; Undergraduate
