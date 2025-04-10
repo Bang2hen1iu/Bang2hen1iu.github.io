@@ -71,12 +71,12 @@ IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2023**.
 # 📕 Educations
 <span class='anchor' id='-education'></span>
 * 2021.09 - 2025.06 
-&emsp; Ph.D
+&emsp; Ph.D  
 &emsp; School of Computer Science & Engineering, South China University of Technology  
-&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Supervisor Prof. [Xuemiao Xu](https://scholar.google.com/citations?user=lFtJq3MAAAAJ&hl=zh-CN&oi=ao) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
+&emsp; Supervisor Prof. [Xuemiao Xu](https://scholar.google.com/citations?user=lFtJq3MAAAAJ&hl=zh-CN&oi=ao) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
 
 * 2017.09 - 2021.06 
-&emsp; Undergraduate
+&emsp; Undergraduate  
 &emsp; School of Computer Science & Engineering, South China University of Technology
 
 <!-- # 🛠️ Projects
