@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bangzhen Liu"
+title                    : "Bangzhen Liu / Personal page"
 title_separator          : "-"
-name                     : &name "Bangzhen Liu (刘邦镇)"
+name                     : &name "刘邦镇 (Bangzhen Liu)"
 description              : &description "Ph.D Candidate at South China University of Technology"
 url                      : https://Bang2hen1iu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
