@@ -27,7 +27,7 @@ I am deeply interested in 3D understanding & reconstruction, and transfer learni
 <span class='anchor' id='-publications'></span>
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*: Equal contribution &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; #: Corresponding Authors
 * [Gaussian Prompter: Linking 2D Prompts for 3D Gaussian Segmentation]()  
-Honghan Pan, **Bangzhen Liu**, Xuemiao Xu, Chenxi Zheng, Yongwei Nie, Shengfeng He.  
+Honghan Pan\*, **Bangzhen Liu**\*, Xuemiao Xu, Chenxi Zheng, Yongwei Nie, Shengfeng He.  
 IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**. 
 
 * [Rotation-Adaptive Point Cloud Domain Generalization via Intricate Orientation Learning](https://arxiv.org/abs/2502.02247)   
@@ -49,19 +49,19 @@ Xinjie Jiang, Chenxi Zheng, Xuemiao Xu#, **Bangzhen Liu**#, Weiying Zheng, Huaid
 The 34th ACM International Conference on Multimedia, **ACMMM 2024**. 
 
 * [Learning an Interpretable Stylized Subspace for 3D-aware Animatable Artforms](https://ieeexplore.ieee.org/document/10430412)  
-Chenxi Zheng*, **Bangzhen Liu***, Xuemiao Xu, Huaidong Zhang, Shengfeng He  
+Chenxi Zheng\*, **Bangzhen Liu**\*, Xuemiao Xu, Huaidong Zhang, Shengfeng He  
 IEEE Transactions on Visualization and Computer Graphics, **TVCG 2024**. 
 
 * [Beyond Textual Constraints: Learning Novel Diffusion Conditions with Fewer Examples](https://openaccess.thecvf.com/content/CVPR2024/html/Yu_Beyond_Textual_Constraints_Learning_Novel_Diffusion_Conditions_with_Fewer_Examples_CVPR_2024_paper.html)  
-Yuyang Yu*, **Bangzhen Liu***, Chenxi Zheng, Xuemiao Xu, Huaidong Zhang, Shengfeng He  
+Yuyang Yu\*, **Bangzhen Liu**\*, Chenxi Zheng, Xuemiao Xu, Huaidong Zhang, Shengfeng He  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2024**. 
 
 * [Learning with Unreliability: Fast Few-shot Voxel Radiance Fields with Relative Geometric Consistency](https://openaccess.thecvf.com/content/CVPR2024/html/Xu_Learning_with_Unreliability_Fast_Few-shot_Voxel_Radiance_Fields_with_Relative_CVPR_2024_paper.html)  
-Yingjie Xu*, **Bangzhen Liu***, Hao Tang, Bailin Deng, Shengfeng He  
+Yingjie Xu\*, **Bangzhen Liu**\*, Hao Tang, Bailin Deng, Shengfeng He  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2024**. 
 
 * [Where is My Spot? Few-shot Image Generation via Latent Subspace Optimization](https://openaccess.thecvf.com/content/CVPR2023/html/Zheng_Where_Is_My_Spot_Few-Shot_Image_Generation_via_Latent_Subspace_CVPR_2023_paper.html)  
-Chenxi Zheng*, **Bangzhen Liu***, Huaidong Zhang, Xuemiao Xu, Shengfeng He  
+Chenxi Zheng\*, **Bangzhen Liu**\*, Huaidong Zhang, Xuemiao Xu, Shengfeng He  
 IEEE/CVF Conference on Computer Vision and Pattern Recognition, **CVPR 2023**. 
 
 
