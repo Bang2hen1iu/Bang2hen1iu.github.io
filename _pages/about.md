@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am cuurently a Ph.D. Student at the School of Computer Science & Engineering, South China University of Technology, supervised by Prof. [Xuemiao Xu](https://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
+I am curently a Ph.D. Student at the School of Computer Science & Engineering, South China University of Technology, co-supervised by Prof. [Xuemiao Xu](https://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
 
 I am deeply interested in 3D understanding & reconstruction, and transfer learning. Currently, I am particularly fascinated by leveraging 2D foundation models to enhance 3D perception in natural world.
 
