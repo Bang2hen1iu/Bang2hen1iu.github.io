@@ -7,9 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-I am curently a Postdoctoral Fellow at the Department of Computer Science at City University of Hong Kong (CityU), working with Prof. [Dapeng Wu](https://www.cs.cityu.edu.hk/~dapengwu/) and Associate Prof. [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/). Before that, I obtained my Ph.D. from the School of Computer Science & Engineering, South China University of Technology , co-supervised by Prof. [Xuemiao Xu](https://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm) and Associated Prof. [Shengfeng He](https://shengfenghe.github.io/index).
+I am currently a Postdoctoral Fellow in the Department of Computer Science, City University of Hong Kong (CityU), co-supervised by Professor [Dapeng Oliver Wu](https://www.cs.cityu.edu.hk/~dapengwu/) (IEEE Fellow) and Associate Professor [Junhui Hou](https://sites.google.com/site/junhuihoushomepage/).
+Before that, I received my Ph.D. from the School of Computer Science and Engineering, South China University of Technology, co-supervised by Professor [Xuemiao Xu](https://www2.scut.edu.cn/cs/2017/0629/c22284a328094/page.htm) and Associate Professor [Shengfeng He](https://shengfenghe.github.io/index).
 
-I am deeply interested in 3D understanding & reconstruction, and transfer learning. Currently, I am particularly fascinated by leveraging 2D foundation models to enhance 3D perception in natural world.
+My research interests include 3D understanding, reconstruction, and generation, as well as transfer learning. Currently, I am particularly interested in leveraging 2D foundation models to enhance 3D perception in the natural world.
 
 
 # 🔥 News
@@ -38,7 +39,8 @@ Tuo Xiang, Xuemiao Xu, **Bangzhen Liu**#, Jinyi Li, Yong Li#, Shengfeng He
 IEEE/CVF International Conference on Computer Vision, **ICCV 2025**.  
 [[**Paper**]]() [[**Code**]]() [[**Demo**]]()
 
-* **Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis** 🏢[[**Project Page**]](https://jingjingrenabc.github.io/turbo2k/)  
+* **Turbo2K: Towards Ultra-Efficient and High-Quality 2K Video Synthesis**  
+🏢[[**Project Page**]](https://jingjingrenabc.github.io/turbo2k/)  
 Jingjing Ren, Wenbo Li, Zhongdao Wang, Haoze Sun, **Bangzhen Liu**, Haoyu Chen, Jiaqi Xu, Aoxue Li, Shifeng Zhang, Bin Shao, Yong Guo, Lei Zhu  
 IEEE/CVF International Conference on Computer Vision, **ICCV 2025**.   
 [[**Paper**]](https://arxiv.org/abs/2504.14470) [[**Code**]]() 
@@ -58,7 +60,8 @@ IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**.
 IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2025**.  
 [[**Paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10926517) [[**Code**]](https://github.com/Bang2hen1iu/OpenVLFE)
 
-* **RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation Learning** 🏢[[**Project Page**]](https://chansey0529.github.io/RecDreamer_proj/)  
+* **RecDreamer: Consistent Text-to-3D Generation via Uniform Score Distillation Learning**  
+🏢[[**Project Page**]](https://chansey0529.github.io/RecDreamer_proj/)  
 Chenxi Zheng, Yihong Lin, **Bangzhen Liu**, Xuemiao Xu, Yongwei Nie, Shengfeng He.  
 The Thirteenth International Conference on Learning Representations, **ICLR 2025**.  
 [[**Paper**]](https://openreview.net/forum?id=aucMP9hGYv) [[**Code**]](https://github.com/chansey0529/RecDreamer) 
