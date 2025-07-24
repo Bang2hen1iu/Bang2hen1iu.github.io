@@ -15,12 +15,12 @@ My research interests include 3D understanding, reconstruction, and generation, 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
-* 2025-06: Three paper are accepted by ICCV 2025.
+* 2025-06: Three papers are accepted by ICCV 2025.
 * 2025-05: Our *GaussianPrompter* is accepted by IEEE Transactions on Machine Intelligence and Pattern Analysis (TPAMI).
 * 2025-03: One paper is accepted by IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 * 2025-01: One paper is accepted by IEEE Transactions on Machine Intelligence and Pattern Analysis (TPAMI).
 * 2024-07: One paper is accepted by ACMMM 2024.
-* 2024-02: Two paper are accepted by CVPR 2024.
+* 2024-02: Two papers are accepted by CVPR 2024.
 * 2024-01: One paper is accepted by IEEE Transactions on Visualization and Computer Graphics (TVCG).
 * 2023-02: One paper is accepted by CVPR 2023.
 
