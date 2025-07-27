@@ -31,7 +31,7 @@ My research interests include 3D understanding, reconstruction, and generation, 
 
 
 
-* **Rotation-Adaptive Point Cloud Domain Generalization via Intricate Orientation Learning**  
+* **GenPoly: Learning Generalized and Tessellated Shape Priors via 3D Polymorphic Evolving**  
 **Bangzhen Liu**, Yuyang Yu, Xuemiao Xu, Cheng Xu, Chenxi Zheng, Shengfeng He. 
 IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**.  
 [[**Paper**]]() [**Code**](https://bang2hen1iu.github.io/GenPoly/) [[**Supp**]](https://bang2hen1iu.github.io/GenPoly/) 
