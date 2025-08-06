@@ -14,6 +14,7 @@ My research interests include 3D understanding, reconstruction, and generation, 
 
 # 🔥 News
 <span class='anchor' id='-news'></span>
+* 2025-08: One paper is accepted by ACMMM 2025.
 * 2025-07: Our project *GenPoly* for generalizable 3D shape generation is accepted by IEEE Transactions on Machine Intelligence and Pattern Analysis (TPAMI).
 * 2025-06: Three papers are accepted by ICCV 2025.
 * 2025-05: Our *GaussianPrompter* is accepted by IEEE Transactions on Machine Intelligence and Pattern Analysis (TPAMI).
@@ -50,6 +51,11 @@ IEEE Transactions on Machine Intelligence and Pattern Analysis, **TPAMI 2025**.
 **Bangzhen Liu**, Yangyang Xu, Cheng Xu, Xuemiao Xu, Shengfeng He.  
 IEEE Transactions on Circuits and Systems for Video Technology, **TCSVT 2025**.  
 [[**Paper**]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10926517) [[**Code**]](https://github.com/Bang2hen1iu/OpenVLFE)
+
+* **Language-driven 3D Human Pose Estimation: Grounding Motion from Text Descriptions**  
+Tingrui Shen, **Bangzhen Liu**#, Zhirun Fan, Shiting Zhang, Weifeng Pan, Sun Fan, Dan Cao, Shengfeng He#  
+The 35th ACM International Conference on Multimedia, **ACMMM 2025**.  
+[[**Paper**]]() [[**Code**]]() [[**Demo**]]()
 
 * **Cross-Subject Mind Decoding from Inaccurate Representations**  
 Yangyang Xu, **Bangzhen Liu**, Wenqi Shao, Yong Du, Shengfeng He, and Tingting Zhu  
